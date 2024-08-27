@@ -100,6 +100,7 @@ A) Download MySQL Shell
 B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
+
 B
 
 What setup type should you choose for a custom MySQL installation?
@@ -126,6 +127,7 @@ A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
+
 B
 
 How do you begin managing your database after installing MySQL?
@@ -134,4 +136,5 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
 B
